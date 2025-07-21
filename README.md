@@ -6,7 +6,6 @@ Your responsibilities include cleaning, analyzing, and visualizing the data, wit
 
 
 🔍 Objectives & Insights
-
 📂 Course Distribution by Category & Subcategory Analyze the distribution of course types across categories and subcategories to uncover trends and identify the most popular domains. This will guide strategic course launches for maximum learner impact.
 
 📈 Average Views by Category, Subcategory & Language Measure viewer engagement by calculating average views across different segments to inform content planning and prioritization.
