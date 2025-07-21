@@ -5,7 +5,7 @@ You are a Data Analyst working with an EdTech startup aiming to grow its offerin
 Your responsibilities include cleaning, analyzing, and visualizing the data, with a strong emphasis on category-wise insights. The final output is a Power BI dashboard that highlights key metrics and trends.
 
 
-#🔍 Objectives & Insights
+##🔍 Objectives & Insights
 
 📂 Course Distribution by Category & Subcategory Analyze the distribution of course types across categories and subcategories to uncover trends and identify the most popular domains. This will guide strategic course launches for maximum learner impact.
 
