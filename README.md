@@ -4,6 +4,18 @@ You are a Data Analyst working with an EdTech startup aiming to grow its offerin
 
 Your responsibilities include cleaning, analyzing, and visualizing the data, with a strong emphasis on category-wise insights. The final output is a Power BI dashboard that highlights key metrics and trends.
 
+Key Features
+
+Data Collection and Preparation: Gathering and cleaning data related to online recorded lectures.
+
+Interactive Dashboard Creation: Designing and building a Power BI dashboard with visualizations and interactive elements.
+
+EdTech Data Analysis: Analyzing data points such as course details, instructor information, ratings, and viewer counts.
+
+Online Publication: Steps for publishing the completed dashboard online.
+
+Application of Core Power BI Skills: Utilizing essential Power BI features for data cleaning, query building, and logic implementation.
+
 
 🔍 Objectives & Insights
 
